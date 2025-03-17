@@ -1,7 +1,7 @@
 ﻿# To-do-List
 A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript.
 
-project link- 
+project link- https://karantulsani.github.io/To-Do-list/
 
 # Features
 
